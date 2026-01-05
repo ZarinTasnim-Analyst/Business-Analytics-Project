@@ -10,8 +10,6 @@ The analysis integrates ESG-specific feature engineering, exploratory data analy
 ## Research Objectives
 - To assess whether ESG-related textual disclosures can predict external ESG ratings.
 - To identify which disclosure features are most predictive of ESG performance and in what direction.
-- To examine potential divergence between disclosure tone and third-party ESG evaluations.
-
 
 ## Data Description
 
